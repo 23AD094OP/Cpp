@@ -1,4 +1,6 @@
+
 // condition or logic wrong in this program.
+// only input take ascending order
 #include<iostream>
 using namespace std;
 int main(){
